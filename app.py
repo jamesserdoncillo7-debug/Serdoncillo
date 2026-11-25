@@ -1,11 +1,11 @@
 import streamlit as st
 
 st.write("sup boi!")
-st.title("this is the app title")
-st.header("this is the header")
-st.markdown("this is the markdown")
-st.subheader("this is the subheader")
-st.caption("this the caption")
+st.title("cookies are delicious")
+st.header("James Rafael A. Serdoncillo")
+st.markdown("lets gooo")
+st.subheader("yes this mine")
+st.caption("cookies the best for real")
 st.code("x = 2021")
 st.latex(r''' a+a r^1+a r^2+a r^3+a ''')
 
