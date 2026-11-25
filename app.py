@@ -1,5 +1,11 @@
 import streamlit as st
 
+st.sidebar.image("bec2066a-9e21-401b-aa16-d1a5468f82a2.jpg", width=150)
+
+st.sidebar.title("James Rafael A. Serdoncillo")
+st.sidebar.write("Student Developer")
+st.sidebar.write("Learning Python and building projects.")
+
 st.write("sup boi!")
 st.title("cookies are delicious")
 st.header("James Rafael A. Serdoncillo")
